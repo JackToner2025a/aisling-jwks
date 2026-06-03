@@ -6,7 +6,7 @@
       "e": "AQAB",
       "kid": "ecw-backend-20260506",
       "use": "sig",
-      "alg": "RS256"
+      "alg": "RS384"
     }
   ]
 }
