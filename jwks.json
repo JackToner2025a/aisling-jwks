@@ -7,6 +7,14 @@
       "kid": "ecw-backend-20260506",
       "use": "sig",
       "alg": "RS384"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "b8c84797-37f3-41c6-9f4c-4fdd766d9a07",
+      "n": "sSJ4O4nVdM5TUdbyQ0OPSFG7eDWc_V0OqVVrSnKMU9QNepUXOeKLlSnV-YldRhwsPk3dnpapLIA_xy_R7ThkKZqm5wybTXgH6izhsou1tVBPzkCXmAE2PvkCZB3tnrqud3CS3YN-ihJ-w5KSouZ4MVBB-GXnrwXHf5nKMMirEuWnD3WC3SsL3NXdWlxMwjW4xiHuKc8ex2Emkf4yoByuY-VjGP9LVhFjHmaFLFqqK8dKGEwIzTFHi0w1TDdmOn0YhEnpERZSdliEBdtsnqvTfKVy0nffeoVWGKMbmkLnEH7svgd9phHP1nbEO_4La_QHEGIBalmupedQBCUPXCO_XrLweXrBgm5SfYD-jK3fLafq9R9ga2CsHhvxwJZn6Uje6cl4WDNjT0A2PYyONIstS1wyh_xYuL12JDNcuIyBFJFHy4zfV3HBtLN0L3oz4FCR-kVmW4Dyo41EVYWew2UxdEcdUJpVSYsKGw0pA64Q767QChq9CiIUCS22b6Rd8y5R",
+      "e": "AQAB"
     }
   ]
 }
