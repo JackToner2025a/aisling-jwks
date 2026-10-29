@@ -15,6 +15,14 @@
       "alg": "RS384",
       "n": "17U1-c7SLByp-Afz5cJtgCArffvzmIBsu2zLmrl4FXi0cm_QxBtkK48Y8ug6ydW6rVTuwidM-Xv5rmvhDnX1wJzfjvDylnMlc7pYCh5Vxp_HT0Pri3iQiGCcAfyT06nxoenAX9a-pQmDV5WZlTg0RZuFgpQ4spyrQBk0OOyDq6tJaXjW0_cgCoz4hEBXtUHh47Qpvno5HvktY6vGOyQaouD4xTqVV5RiJYJD6ARf6vdktLVpSvHUYDmf1D3BTFWQbeZJriRO4pzzVB7kyx9Zbw6tRZ78qcUwYXQ8tpLfzt-lnp0_VgkBtr75ZGdyRtUjSK7mqQ1RDznEkVrGRkc9PfFRVhGONmfAnbCiYVOgxAxrqGJpKaFjJTGTpKPIR0fLc0_6aFPs8FOzW_ivF10nSqOAyLTFqHwR4CgOd4UEqEw-SVr-LIyLXm5fSqQBQwqSIrQogZ3GXL7IsxC1ZfIlNrivBa7fty1g1svdGyTaoi11b09NP99-E2Gr0sARDki9",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "kid": "ecw-backend-20261029",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "y6k0m-doPp0qegWDYG22OEuTy_onY3wTYQUYs112q-Vs4B4UxPlw2USa4hDc6wiYTytUriKQPEvYgv1MVKniegkIWazd-cC0K_4H0AhoV1ptKZglsyVzwyL2ynCOuUytOvyd9jPwSAs_AJ8fiRnm933P0KGrD6mXuFz5WxDgW_MHjXZEwRr1qIiTqlA_w4Icpr6Shu-pfr11TG5F-oSaHBKZk4EGVNFf_r0gtuo3OR4ma-CWke3gqRMWIjxnymRMqrVgBIiuUJfZru2GxwZ0VFtFTOJneEigCBJvy29_GeB8lwUwJuvVpp6uloxfH9uO878SbcnlVpW8oWp7lmrTrQ",
+      "e": "AQAB"
     }
   ]
 }
